@@ -2342,5 +2342,5 @@ AccessToString = {
  400: '\x01amber\x01Artist\x02',
  500: '\x01androidGreen\x01Developer\x02',
  600: '\x01cobalt\x01Admin\x02',
- 700: '\x01azure\x01System Admin\x02'
+ 700: '\x0caribbeanGreen\x01Citizen\x02'
 }
