@@ -2335,7 +2335,7 @@ def timeElapsedString(timeDelta):
     else:
         return '%s minutes ago' % (timeDelta.seconds / 60)
 
-AsciiNotSupported = 'Sorry, but Toontown Stride does not support non-ASCII characters.'
+AsciiNotSupported = 'Sorry, but Toontown Delicious does not support non-ASCII characters.'
 AccessToString = {
  200: '\x01amaranth\x01Community Manager\x02',
  300: '\x01caribbeanGreen\x01Moderator\x02',
