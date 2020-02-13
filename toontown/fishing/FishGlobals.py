@@ -29,7 +29,9 @@ Rod2JellybeanDict = {0: 10,
  1: 20,
  2: 30,
  3: 75,
- 4: 150}
+ 4: 150,
+ 5: 250,
+ 6: 350}
 HealAmount = 1
 JellybeanFishingHolidayScoreMultiplier = 2
 MAX_RARITY = 10
@@ -45,12 +47,16 @@ RodFileDict = {0: 'phase_4/models/props/pole_treebranch-mod',
  1: 'phase_4/models/props/pole_bamboo-mod',
  2: 'phase_4/models/props/pole_wood-mod',
  3: 'phase_4/models/props/pole_steel-mod',
- 4: 'phase_4/models/props/pole_gold-mod'}
+ 4: 'phase_4/models/props/pole_gold-mod',
+ 5: 'phase_4/models/props/pole_gold-mod',
+ 6: 'phase_4/models/props/pole_gold-mod'}
 RodPriceDict = {0: 0,
  1: 400,
  2: 800,
  3: 1200,
- 4: 2000}
+ 4: 1600,
+ 5: 2000,
+ 6: 2400}
 TankPriceDict = {0: 0,
  40: 400,
  60: 800,
@@ -64,8 +70,10 @@ RodRarityFactor = {0: 1.0 / (GlobalRarityDialBase * 1),
  1: 1.0 / (GlobalRarityDialBase * 0.975),
  2: 1.0 / (GlobalRarityDialBase * 0.95),
  3: 1.0 / (GlobalRarityDialBase * 0.9),
- 4: 1.0 / (GlobalRarityDialBase * 0.85)}
-MaxRodId = 4
+ 4: 1.0 / (GlobalRarityDialBase * 0.85),
+ 5: 1.0 / (GlobalRarityDialBase * 0.75),
+ 6: 1.0 / (GlobalRarityDialBase * 0.65),}
+MaxRodId = 6
 MaxTank = 100
 FishAudioFileDict = {-1: ('Clownfish.ogg',
       1,
@@ -617,8 +625,9 @@ __rodDict = {0: (0, 4, 1),
  1: (0, 8, 2),
  2: (0, 12, 3),
  3: (0, 16, 4),
- 4: (0, 20, 5)}
-
+ 4: (0, 20, 5),
+ 5: (0, 24, 6),
+ 6: (0, 28, 7)}
 def getNumRods():
     return len(__rodDict)
 
