@@ -19,7 +19,7 @@ rpc-server-endpoint http://localhost:8080/
 
 # Core features:
 want-pets #t
-want-parties #f
+want-parties #t
 want-cogdominiums #t
 want-lawbot-cogdo #f
 want-anim-props #t
