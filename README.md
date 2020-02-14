@@ -2,9 +2,8 @@
  Based off the public version of Stride
  
  Created by:
- PizzaTacoBurger
  HunterBoppen
- other people i cant remember right now
+
  
  # How To Start
  1. Download from here
@@ -14,4 +13,4 @@
  5. Enter your username
  6. Have fun
 
-
+There may be crashes as you play along, please report them in the discord so I can fix them --Hunter
