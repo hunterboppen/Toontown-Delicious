@@ -140,7 +140,7 @@ CRTryConnectAgain = '\n\nTry to connect again?'
 CRToontownUnavailable = 'The server appears to be temporarily unavailable, still trying...'
 CRToontownUnavailableCancel = lCancel
 CRNameCongratulations = 'CONGRATULATIONS!!'
-CRNameAccepted = 'Your name has been\napproved by the Toon Council.\n\nFrom this day forth\nyou will be named\n"%s"'
+CRNameAccepted = 'Your name has been\napproved by Minnie.\n\nFrom this day forth\nyou will be named\n"%s"'
 CRMaintenanceCountdownMessage = 'Attention Toons! Toontown Delicious will be going down for maintenance in %d minutes.'
 CRMaintenanceMessage = 'Attention Toons! Toontown Delicious is now going down for maintenance.'
 AfkForceAcknowledgeMessage = 'Your toon got sleepy and went to bed.'
@@ -282,7 +282,7 @@ EmoteList = ['Wave',
  'Belly Flop',
  'Bow',
  'Banana Peel',
- 'Resistance Salute',
+ 'Minnie Salute',
  'Laugh',
  lYes,
  lNo,
@@ -308,7 +308,7 @@ EmoteWhispers = ['%s waves.',
  '%s does a belly flop.',
  '%s bows to you.',
  '%s slips on a banana peel.',
- '%s gives the resistance salute.',
+ '%s gives the Minnie salute.',
  '%s laughs.',
  "%s says '" + lYes + "'.",
  "%s says '" + lNo + "'.",
